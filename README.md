@@ -1,6 +1,6 @@
 # 🩸 BloodBank Admin
 
-A modern, edge-deployed blood donation management system. Originally built for **Bijoy 24 Hall**, this system is designed to help university dormitories, communities, and organizations easily track donors, manage blood groups, and log donation history in a fast and secure way.
+A modern, edge-deployed blood donation management system. Originally built for **Bijoy 24 Hall (Dhaka College)**, this system is designed to help university dormitories, communities, and organizations easily track donors, manage blood groups, and log donation history in a fast and secure way.
 
 ![Dashboard Preview](public/dashboard.png)
 
