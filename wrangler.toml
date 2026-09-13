@@ -1,0 +1,9 @@
+name = "blood-admin"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "hobby"
+database_id = "9cc04620-384b-4b3e-9e9c-9b39924cae6b"
